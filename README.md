@@ -4,4 +4,4 @@
 
 My name is John Farr and I'm a software engineer currently working for [ShopPad](https://theshoppad.com/). I love building web applications and generally solving problems, and learning new languages and tools.
 
-In my spare time, I love watching soccer, cycling, and hiking ⚽🚴🥾.
+In my spare time, I love watching soccer, riding my bike, and hiking ⚽🚴🥾.
